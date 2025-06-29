@@ -1,9 +1,10 @@
 # FPGA-Image-Processing-2
 
 Team Members:
-NAME: MARJAN UR RAHMAN REMO [SL24225005]
-NAME: RAOHA BIN MEJBA [SL24225002]
-NAME: MD HEZBULLAH [SL24225009]
+
+      NAME: MARJAN UR RAHMAN REMO [SL24225005]
+      NAME: RAOHA BIN MEJBA [SL24225002]
+      NAME: MD HEZBULLAH [SL24225009]
 
 ## 📌 Project Overview
 
@@ -40,20 +41,20 @@ The filters are implemented using a single **HLS IP module** called `multi_filte
 
 ## 📁 Folder Structure
 
-project-root/
-│
-├── fpga/ 
-│ ├── hls/ # HLS source code and packaged IP (multi_filter.zip)
-│ ├── vivado_project/ # Vivado block design and exported XSA
-│ ├── vitis_xsa/ # exported XSA
-│ ├── vitis_app/ # Vitis application with main.c
-├── gui_app/ # Python GUI
-│ ├── app.py
-│ ├── _pycache_
-│ └── Background.png
-├── Project Photos/ # Contains the screenshots of GUI App implementation outputs and project diagrams
-├── block_design.pdf
-└── README.md # This guide
+      project-root/
+      │
+      ├── fpga/ 
+      │ ├── hls/ # HLS source code and packaged IP (multi_filter.zip)
+      │ ├── vivado_project/ # Vivado block design and exported XSA
+      │ ├── vitis_xsa/ # exported XSA
+      │ ├── vitis_app/ # Vitis application with main.c
+      ├── gui_app/ # Python GUI
+      │ ├── app.py
+      │ ├── _pycache_
+      │ └── Background.png
+      ├── Project Photos/ # Contains the screenshots of GUI App implementation outputs and project diagrams
+      ├── block_design.pdf
+      └── README.md # This guide
 
 
 ---
@@ -70,11 +71,11 @@ project-root/
 
 You should see the following messages via UART (e.g., Tera Term):
 
-|         Terminal         |
-|------------|-------------|
-|     UART Initialized     |
-|     DMA Initialized      |
-|   Filter IP configured   |
+      |         Terminal         |
+      |------------|-------------|
+      |     UART Initialized     |
+      |     DMA Initialized      |
+      |   Filter IP configured   |
 ---
 
 ### 2. Run the Python GUI
