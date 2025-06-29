@@ -91,7 +91,7 @@ You should see the following messages via UART (e.g., Tera Term):
 1. Navigate to `gui_app/`:
    ```bash
    cd gui_app
-   python main.py
+   python app.py
 
 2. In the GUI:
     * Click Upload Image and choose any .png, .jpg, or .bmp
