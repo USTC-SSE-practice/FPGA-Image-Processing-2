@@ -17,6 +17,14 @@ This project implements a hardware-accelerated image filtering system using a **
 
 The filters are implemented using a single **HLS IP module** called `multi_filter`. A Python GUI communicates with the board over UART, allowing users to upload an image, send it to the FPGA, and view the processed results.
 
+<p align="center">
+  <img src="Project Photos/User Interface of GUI.png" width="800">    
+</p>
+
+<p align="center">
+  Fig: User Interface of GUI APP
+</p>
+
 ---
 
 ## 🔧 Hardware Specifications
@@ -108,6 +116,14 @@ You should see the following messages via UART (e.g., Tera Term):
 | Distorted output images      | Check that input is properly resized to 128×128    |
 | Timeout waiting for result   | Recheck baud rate (should be 115200)               |
 
+
+# 📸 Project Screenshot
+
+<p align="center">
+  <img src="Project Photos/GUI_Screenshoot_1.png" width="800">
+  <img src="Project Photos/GUI_Screenshoot_2.png" width="800">
+  <img src="Project Photos/GUI_Screenshoot_5.png" width="800">
+</p>
 
 # 📧 Contact
 - Raoha Bin Mejba
