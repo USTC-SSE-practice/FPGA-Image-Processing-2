@@ -1,0 +1,92 @@
+{
+  "0": {
+    "basicblocks": 33,
+    "calls": "1 2 3 5 4",
+    "file": "multi_filter.cpp",
+    "fileloc": 79,
+    "instructions": 176,
+    "loads": {
+      "L": 8
+    },
+    "name": "multi_filter",
+    "stores": {
+      "L": 8
+    },
+    "total_instructions": 3528
+  },
+  "1": {
+    "basicblocks": 15,
+    "calls": "",
+    "file": "multi_filter.cpp",
+    "fileloc": 4,
+    "instructions": 220,
+    "loads": {
+      "L": 1
+    },
+    "name": "apply_sobel",
+    "stores": {
+      "L": 1
+    },
+    "total_instructions": 1525
+  },
+  "2": {
+    "basicblocks": 25,
+    "calls": "",
+    "file": "multi_filter.cpp",
+    "fileloc": 23,
+    "instructions": 63,
+    "loads": {
+      "L": 1
+    },
+    "name": "apply_box_blur",
+    "stores": {
+      "L": 1
+    },
+    "total_instructions": 85
+  },
+  "3": {
+    "basicblocks": 17,
+    "calls": "2",
+    "file": "multi_filter.cpp",
+    "fileloc": 37,
+    "instructions": 70,
+    "loads": {
+      "L": 1
+    },
+    "name": "apply_unsharp_mask",
+    "stores": {
+      "L": 1
+    },
+    "total_instructions": 187
+  },
+  "4": {
+    "basicblocks": 13,
+    "calls": "",
+    "file": "multi_filter.cpp",
+    "fileloc": 68,
+    "instructions": 87,
+    "loads": {
+      "L": 1
+    },
+    "name": "apply_low_pass",
+    "stores": {
+      "L": 1
+    },
+    "total_instructions": 437
+  },
+  "5": {
+    "basicblocks": 17,
+    "calls": "",
+    "file": "multi_filter.cpp",
+    "fileloc": 53,
+    "instructions": 157,
+    "loads": {
+      "L": 1
+    },
+    "name": "apply_high_pass",
+    "stores": {
+      "L": 1
+    },
+    "total_instructions": 907
+  }
+}

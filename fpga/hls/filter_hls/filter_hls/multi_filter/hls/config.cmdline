@@ -1,0 +1,3 @@
+relativeroot=C:/Image_Processing_FPGA/fpga/hls/filter_hls/filter_hls
+original_argv=--mode hls --package --config C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\hls_config.cfg --work_dir multi_filter 
+

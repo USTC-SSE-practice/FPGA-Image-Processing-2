@@ -1,0 +1,13 @@
+create libxil.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/xadcps/src/libxadcps.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/uartps/src/libuartps.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/scuwdt/src/libscuwdt.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/scutimer/src/libscutimer.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/scugic/src/libscugic.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/multi_filter/src/libmulti_filter.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/dmaps/src/libdmaps.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/devcfg/src/libdevcfg.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/coresightps_dcc/src/libcoresightps_dcc.a
+addlib C:/Image_Processing_FPGA/fpga/vitis_app/multi_filter_platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/axidma/src/libaxidma.a
+save
+end

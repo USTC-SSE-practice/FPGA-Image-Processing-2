@@ -1,0 +1,17 @@
+{
+  "0": {
+    "basicblocks": 932,
+    "calls": "",
+    "file": "multi_filter.cpp",
+    "fileloc": 79,
+    "instructions": 10579,
+    "loads": {
+      "L": 2301
+    },
+    "name": "multi_filter",
+    "stores": {
+      "L": 888
+    },
+    "total_instructions": 10579
+  }
+}

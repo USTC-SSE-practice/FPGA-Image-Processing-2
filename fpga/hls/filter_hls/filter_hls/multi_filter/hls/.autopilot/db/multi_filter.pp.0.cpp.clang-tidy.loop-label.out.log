@@ -1,0 +1,105 @@
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:2262:5: warning: Added loop label VITIS_LOOP_676_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high+1; ++i) {
+    ^~~
+    VITIS_LOOP_676_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:2262:5: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:2276:5: warning: Added loop label VITIS_LOOP_690_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high+1; ++i) {
+    ^~~
+    VITIS_LOOP_690_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:2276:5: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:2290:5: warning: Added loop label VITIS_LOOP_704_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high+1; ++i) {
+    ^~~
+    VITIS_LOOP_704_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:2290:5: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:3924:7: warning: Added loop label VITIS_LOOP_1248_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1248_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:3924:7: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9758:2: warning: Added loop label VITIS_LOOP_6_1:   [xilinx-label-all-loops]
+ for (int i = 1; i < 128 - 1; i++) {
+ ^~~
+ VITIS_LOOP_6_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9758:2: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9759:9: warning: Added loop label VITIS_LOOP_7_2:   [xilinx-label-all-loops]
+        for (int j = 1; j < 128 - 1; j++) {
+        ^~~
+        VITIS_LOOP_7_2: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9759:9: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9777:2: warning: Added loop label VITIS_LOOP_25_1:   [xilinx-label-all-loops]
+ for (int i = 1; i < 128 - 1; i++) {
+ ^~~
+ VITIS_LOOP_25_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9777:2: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9778:9: warning: Added loop label VITIS_LOOP_26_2:   [xilinx-label-all-loops]
+        for (int j = 1; j < 128 - 1; j++) {
+        ^~~
+        VITIS_LOOP_26_2: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9778:9: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9781:13: warning: Added loop label VITIS_LOOP_29_3:   [xilinx-label-all-loops]
+            for (int m = -1; m <= 1; m++)
+            ^~~
+            VITIS_LOOP_29_3: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9781:13: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9782:17: warning: Added loop label VITIS_LOOP_30_4:   [xilinx-label-all-loops]
+                for (int n = -1; n <= 1; n++)
+                ^~~
+                VITIS_LOOP_30_4: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9782:17: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9794:5: warning: Added loop label VITIS_LOOP_42_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < 128; i++) {
+    ^~~
+    VITIS_LOOP_42_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9794:5: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9795:9: warning: Added loop label VITIS_LOOP_43_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < 128; j++) {
+        ^~~
+        VITIS_LOOP_43_2: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9795:9: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9807:2: warning: Added loop label VITIS_LOOP_55_1:   [xilinx-label-all-loops]
+ for (int i = 1; i < 128 - 1; i++) {
+ ^~~
+ VITIS_LOOP_55_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9807:2: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9808:9: warning: Added loop label VITIS_LOOP_56_2:   [xilinx-label-all-loops]
+        for (int j = 1; j < 128 - 1; j++) {
+        ^~~
+        VITIS_LOOP_56_2: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9808:9: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9822:2: warning: Added loop label VITIS_LOOP_70_1:   [xilinx-label-all-loops]
+ for (int i = 1; i < 128 - 1; i++) {
+ ^~~
+ VITIS_LOOP_70_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9822:2: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9823:9: warning: Added loop label VITIS_LOOP_71_2:   [xilinx-label-all-loops]
+        for (int j = 1; j < 128 - 1; j++) {
+        ^~~
+        VITIS_LOOP_71_2: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9823:9: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9852:2: warning: Added loop label VITIS_LOOP_96_1:   [xilinx-label-all-loops]
+ for (int i = 0; i < rows; i++) {
+ ^~~
+ VITIS_LOOP_96_1: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9852:2: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9853:9: warning: Added loop label VITIS_LOOP_97_2:   [xilinx-label-all-loops]
+        for (int j = 0; j < cols; j++) {
+        ^~~
+        VITIS_LOOP_97_2: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9853:9: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9868:5: warning: Added loop label VITIS_LOOP_112_3:   [xilinx-label-all-loops]
+    for (int k = 0; k < 5; k++) {
+    ^~~
+    VITIS_LOOP_112_3: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9868:5: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9869:9: warning: Added loop label VITIS_LOOP_113_4:   [xilinx-label-all-loops]
+        for (int i = 0; i < rows; i++) {
+        ^~~
+        VITIS_LOOP_113_4: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9869:9: note: FIX-IT applied suggested code changes
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9870:13: warning: Added loop label VITIS_LOOP_114_5:   [xilinx-label-all-loops]
+            for (int j = 0; j < cols; j++) {
+            ^~~
+            VITIS_LOOP_114_5: 
+C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp:9870:13: note: FIX-IT applied suggested code changes

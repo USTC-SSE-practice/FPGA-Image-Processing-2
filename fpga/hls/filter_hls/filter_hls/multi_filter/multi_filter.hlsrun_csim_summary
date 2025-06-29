@@ -1,0 +1,157 @@
+<ENTRY>
+{
+ "thisFile": "C:/Image_Processing_FPGA\\fpga\\hls\\filter_hls\\filter_hls\\multi_filter\\multi_filter.hlsrun_csim_summary",
+ "connectId": "",
+ "serverToken": "",
+ "timestamp": "0"
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_CmdStep",
+ "dateTimestamp": "06/25/25 22:45:06",
+ "timestampMillis": "1750862706750",
+ "buildStep": {
+  "cmdId": "1b0cb4c0-a426-48d4-8cf7-98b9ef3af351",
+  "name": "vitis-run",
+  "logFile": "C:/Image_Processing_FPGA\\fpga\\hls\\filter_hls\\filter_hls\\multi_filter\\logs\\multi_filter.steps.log",
+  "commandLine": "C:/Xilinx/Vitis/2024.2/bin/unwrapped/win64.o/vitis-run.exe  --mode hls --csim --config C:\\Image_Processing_FPGA\\fpga\\hls\\filter_hls\\filter_hls\\hls_config.cfg --work_dir multi_filter ",
+  "args": [
+   "--mode",
+   "hls",
+   "--csim",
+   "--config",
+   "C:\\Image_Processing_FPGA\\fpga\\hls\\filter_hls\\filter_hls\\hls_config.cfg",
+   "--work_dir",
+   "multi_filter"
+  ],
+  "iniFiles": [],
+  "cwd": "C:\\Image_Processing_FPGA\\fpga\\hls\\filter_hls\\filter_hls"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "06/25/25 22:45:06",
+ "timestampMillis": "1750862706753",
+ "status": {
+  "cmdId": "1b0cb4c0-a426-48d4-8cf7-98b9ef3af351",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_FlowMetaData",
+ "dateTimestamp": "06/25/25 22:45:15",
+ "timestampMillis": "1750862715684",
+ "buildSummary": {
+  "hardwarePlatform": "",
+  "hardwareDsa": "",
+  "platformDirectory": "",
+  "runtime": "",
+  "systemConfig": "",
+  "flow": "BF_RUN",
+  "target": "TT_HLS_C_SIM",
+  "kernels": [
+   {
+    "base": {
+     "type": "KERNEL",
+     "name": "multi_filter",
+     "file": "",
+     "reports": [],
+     "uuid": ""
+    },
+    "sources": [
+     "C:/Image_Processing_FPGA\\fpga\\hls\\multi_filter.h",
+     "C:/Image_Processing_FPGA\\fpga\\hls\\multi_filter.cpp"
+    ],
+    "psSources": [],
+    "cuNames": [],
+    "type": "HLS",
+    "frequency": 0,
+    "freqUnits": ""
+   }
+  ],
+  "toolVersion": "2024.2"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_SubCmdStep",
+ "dateTimestamp": "06/25/25 22:45:15",
+ "timestampMillis": "1750862715688",
+ "buildStep": {
+  "cmdId": "43da5edd-e740-4710-a926-b9236966f3a5",
+  "name": "",
+  "logFile": "C:/Image_Processing_FPGA\\fpga\\hls\\filter_hls\\filter_hls\\multi_filter\\hls\\hls.log",
+  "commandLine": "",
+  "args": [],
+  "iniFiles": [],
+  "cwd": "C:\\Image_Processing_FPGA\\fpga\\hls\\filter_hls\\filter_hls"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "06/25/25 22:45:15",
+ "timestampMillis": "1750862715690",
+ "status": {
+  "cmdId": "43da5edd-e740-4710-a926-b9236966f3a5",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "06/25/25 22:45:26",
+ "timestampMillis": "1750862726621",
+ "status": {
+  "cmdId": "43da5edd-e740-4710-a926-b9236966f3a5",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "06/25/25 22:45:27",
+ "timestampMillis": "1750862727041",
+ "status": {
+  "cmdId": "1b0cb4c0-a426-48d4-8cf7-98b9ef3af351",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "06/25/25 22:45:27",
+ "timestampMillis": "1750862727047",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "HTML",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "06/25/25 22:45:27",
+ "timestampMillis": "1750862727048",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "BINARY_PROTOBUF",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>

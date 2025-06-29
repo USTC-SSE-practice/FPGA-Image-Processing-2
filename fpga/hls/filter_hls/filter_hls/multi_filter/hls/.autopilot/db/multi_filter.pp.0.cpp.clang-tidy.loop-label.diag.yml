@@ -1,0 +1,193 @@
+---
+MainSourceFile:  'C:/Image_Processing_FPGA/fpga/hls/filter_hls/filter_hls/multi_filter/hls/.autopilot/db/multi_filter.pp.0.cpp'
+Diagnostics:     
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_676_1:  '
+    FileOffset:      676
+    FilePath:        'C:\Xilinx\Vitis\2024.2\common\technology\autopilot\etc\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          279980
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_676_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_690_1:  '
+    FileOffset:      690
+    FilePath:        'C:\Xilinx\Vitis\2024.2\common\technology\autopilot\etc\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          280446
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_690_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_704_1:  '
+    FileOffset:      704
+    FilePath:        'C:\Xilinx\Vitis\2024.2\common\technology\autopilot\etc\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          280913
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_704_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1248_1:  '
+    FileOffset:      1248
+    FilePath:        'C:\Xilinx\Vitis\2024.2\common\technology\autopilot\etc\ap_fixed_base.h'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          564271
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1248_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_6_1:  '
+    FileOffset:      6
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1056484
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_6_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_7_2:  '
+    FileOffset:      7
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1056528
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_7_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_25_1:  '
+    FileOffset:      25
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1057083
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_25_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_26_2:  '
+    FileOffset:      26
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1057127
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_26_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_29_3:  '
+    FileOffset:      29
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1057215
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_29_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_30_4:  '
+    FileOffset:      30
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1057261
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_30_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_42_1:  '
+    FileOffset:      42
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1057596
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_42_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_43_2:  '
+    FileOffset:      43
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1057636
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_43_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_55_1:  '
+    FileOffset:      55
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1057982
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_55_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_56_2:  '
+    FileOffset:      56
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1058026
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_56_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_70_1:  '
+    FileOffset:      70
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1058478
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_70_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_71_2:  '
+    FileOffset:      71
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1058522
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_71_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_96_1:  '
+    FileOffset:      96
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1059484
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_96_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_97_2:  '
+    FileOffset:      97
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1059525
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_97_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_112_3:  '
+    FileOffset:      112
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1059869
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_112_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_113_4:  '
+    FileOffset:      113
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1059907
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_113_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_114_5:  '
+    FileOffset:      114
+    FilePath:        'C:\Image_Processing_FPGA\fpga\hls\multi_filter.cpp'
+    Replacements:    
+      - FilePath:        'C:\Image_Processing_FPGA\fpga\hls\filter_hls\filter_hls\multi_filter\hls\.autopilot\db\multi_filter.pp.0.cpp'
+        Offset:          1059952
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_114_5: '
+...

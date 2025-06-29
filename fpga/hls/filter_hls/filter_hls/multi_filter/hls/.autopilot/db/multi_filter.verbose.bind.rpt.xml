@@ -1,0 +1,53 @@
+<profile>
+
+<section name = "Vitis HLS Report for 'multi_filter'" level="0">
+<item name = "Date">Wed Jun 25 23:28:06 2025
+</item>
+<item name = "Version">2024.2 (Build 5238294 on Nov  8 2024)</item>
+<item name = "Project">multi_filter</item>
+<item name = "Solution">hls (Vivado IP Flow Target)</item>
+<item name = "Product family">zynq</item>
+<item name = "Target device">xc7z020-clg484-1</item>
+</section>
+
+<section name = "Performance Estimates" level="0">
+<item name = "Timing">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="4">Clock, Target, Estimated, Uncertainty</keys>
+<column name="ap_clk">10.00 ns, 8.389 ns, 2.00 ns</column>
+</table>
+</item>
+</section>
+</item>
+<item name = "Latency">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="8">, min, max, min, max, min, max, Type</keys>
+<column name="">?, ?, ?, ?, ?, ?, no</column>
+</table>
+</item>
+<item name = "Detail">
+<section name = "" level="1">
+<item name = "Instance"><table name="" hasTotal="0">
+<keys size="9">Instance, Module, min, max, min, max, min, max, Type</keys>
+<column name="grp_multi_filter_Pipeline_VITIS_LOOP_96_1_VITIS_LOOP_97_2_fu_2658">multi_filter_Pipeline_VITIS_LOOP_96_1_VITIS_LOOP_97_2, ?, ?, ?, ?, 0, 0, loop auto-rewind stp (delay=0 clock cycles(s))</column>
+<column name="grp_multi_filter_Pipeline_VITIS_LOOP_6_1_VITIS_LOOP_7_2_fu_3062">multi_filter_Pipeline_VITIS_LOOP_6_1_VITIS_LOOP_7_2, 15897, 15897, 0.159 ms, 0.159 ms, 15877, 15877, loop auto-rewind stp (delay=0 clock cycles(s))</column>
+<column name="grp_multi_filter_Pipeline_VITIS_LOOP_25_1_VITIS_LOOP_26_2_fu_3576">multi_filter_Pipeline_VITIS_LOOP_25_1_VITIS_LOOP_26_2, 15895, 15895, 0.159 ms, 0.159 ms, 15877, 15877, loop auto-rewind stp (delay=0 clock cycles(s))</column>
+<column name="grp_multi_filter_Pipeline_VITIS_LOOP_25_1_VITIS_LOOP_26_21_fu_4090">multi_filter_Pipeline_VITIS_LOOP_25_1_VITIS_LOOP_26_21, 15895, 15895, 0.159 ms, 0.159 ms, 15877, 15877, loop auto-rewind stp (delay=0 clock cycles(s))</column>
+<column name="grp_multi_filter_Pipeline_VITIS_LOOP_42_1_VITIS_LOOP_43_2_fu_4604">multi_filter_Pipeline_VITIS_LOOP_42_1_VITIS_LOOP_43_2, 16399, 16399, 0.164 ms, 0.164 ms, 16385, 16385, loop auto-rewind stp (delay=0 clock cycles(s))</column>
+<column name="grp_multi_filter_Pipeline_VITIS_LOOP_55_1_VITIS_LOOP_56_2_fu_5246">multi_filter_Pipeline_VITIS_LOOP_55_1_VITIS_LOOP_56_2, 15894, 15894, 0.159 ms, 0.159 ms, 15877, 15877, loop auto-rewind stp (delay=0 clock cycles(s))</column>
+<column name="grp_multi_filter_Pipeline_VITIS_LOOP_70_1_VITIS_LOOP_71_2_fu_5760">multi_filter_Pipeline_VITIS_LOOP_70_1_VITIS_LOOP_71_2, 15895, 15895, 0.159 ms, 0.159 ms, 15877, 15877, loop auto-rewind stp (delay=0 clock cycles(s))</column>
+<column name="grp_multi_filter_Pipeline_VITIS_LOOP_112_3_VITIS_LOOP_113_4_VITIS_LOOP_114_5_fu_6274">multi_filter_Pipeline_VITIS_LOOP_112_3_VITIS_LOOP_113_4_VITIS_LOOP_114_5, ?, ?, ?, ?, 0, 0, loop auto-rewind stp (delay=0 clock cycles(s))</column>
+</table>
+</item>
+<item name = "Loop"><table name="" hasTotal="0">
+<keys size="8">Loop Name, min, max, Latency, achieved, target, Count, Pipelined</keys>
+</table>
+</item>
+</section>
+</item>
+</section>
+</item>
+</section>
+</profile>

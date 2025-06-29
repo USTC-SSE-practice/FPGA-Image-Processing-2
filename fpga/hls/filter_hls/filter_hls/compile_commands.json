@@ -1,0 +1,27 @@
+[
+  {
+    "directory": "C:\\Image_Processing_FPGA\\fpga\\hls\\filter_hls\\filter_hls",
+    "arguments": [
+      "C:\\Xilinx\\Vitis\\2024.2\\vcxx\\libexec\\clang++.exe",
+      "--sysroot=C:\\Xilinx\\Vitis\\2024.2\\tps\\mingw\\10.0.0\\win64.o\\nt",
+      "-fhls",
+      "-hls-syn-headers-dir=C:\\Xilinx\\Vitis\\2024.2\\common\\technology\\autopilot",
+      "-fhlstoplevel=multi_filter",
+      "-c",
+      "C:/Image_Processing_FPGA/fpga/hls/multi_filter.cpp"
+    ],
+    "file": "C:/Image_Processing_FPGA/fpga/hls/multi_filter.cpp"
+  },
+  {
+    "directory": "C:\\Image_Processing_FPGA\\fpga\\hls\\filter_hls\\filter_hls",
+    "arguments": [
+      "C:\\Xilinx\\Vitis\\2024.2\\vcxx\\libexec\\clang++.exe",
+      "--sysroot=C:\\Xilinx\\Vitis\\2024.2\\tps\\mingw\\10.0.0\\win64.o\\nt",
+      "-fhls-tb",
+      "-hls-sim-headers-dir=C:\\Xilinx\\Vitis\\2024.2\\include",
+      "-c",
+      "C:/Image_Processing_FPGA/fpga/hls/testbench.cpp"
+    ],
+    "file": "C:/Image_Processing_FPGA/fpga/hls/testbench.cpp"
+  }
+]

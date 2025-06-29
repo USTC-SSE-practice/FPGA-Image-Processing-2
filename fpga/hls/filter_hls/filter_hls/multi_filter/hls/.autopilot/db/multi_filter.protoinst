@@ -1,0 +1,99 @@
+{
+	"version": "1.0",
+	"modules": {
+		"multi_filter": {
+			"proto_instances": {
+				"/AESL_inst_multi_filter_activity": {
+					"interface": "xilinx.com:interface:internal_hls_dataflow:1.0",
+					"ports": {
+						"AP_CLK": { "actual": "ap_clk"},
+						"AP_DONE": { "actual": "ap_done"},
+						"AP_READY": { "actual": "ap_ready"},
+						"AP_RESET": { "actual": "ap_rst_n"},
+						"AP_START": { "actual": "ap_start"}
+					}
+				},
+				"grp_multi_filter_Pipeline_VITIS_LOOP_112_3_VITIS_LOOP_113_4_VITIS_LOOP_114_5_fu_6274/grp_multi_filter_Pipeline_VITIS_LOOP_112_3_VITIS_LOOP_113_4_VITIS_LOOP_114_5_fu_6274_activity": {
+					"interface": "xilinx.com:interface:internal_hls_dataflow:1.0",
+					"ports": {
+						"AP_CLK": { "actual": "ap_clk"},
+						"AP_DONE": { "actual": "ap_done"},
+						"AP_READY": { "actual": "ap_ready"},
+						"AP_RESET": { "actual": "ap_rst"},
+						"AP_START": { "actual": "ap_start"}
+					}
+				},
+				"grp_multi_filter_Pipeline_VITIS_LOOP_25_1_VITIS_LOOP_26_21_fu_4090/grp_multi_filter_Pipeline_VITIS_LOOP_25_1_VITIS_LOOP_26_21_fu_4090_activity": {
+					"interface": "xilinx.com:interface:internal_hls_dataflow:1.0",
+					"ports": {
+						"AP_CLK": { "actual": "ap_clk"},
+						"AP_DONE": { "actual": "ap_done"},
+						"AP_READY": { "actual": "ap_ready"},
+						"AP_RESET": { "actual": "ap_rst"},
+						"AP_START": { "actual": "ap_start"}
+					}
+				},
+				"grp_multi_filter_Pipeline_VITIS_LOOP_25_1_VITIS_LOOP_26_2_fu_3576/grp_multi_filter_Pipeline_VITIS_LOOP_25_1_VITIS_LOOP_26_2_fu_3576_activity": {
+					"interface": "xilinx.com:interface:internal_hls_dataflow:1.0",
+					"ports": {
+						"AP_CLK": { "actual": "ap_clk"},
+						"AP_DONE": { "actual": "ap_done"},
+						"AP_READY": { "actual": "ap_ready"},
+						"AP_RESET": { "actual": "ap_rst"},
+						"AP_START": { "actual": "ap_start"}
+					}
+				},
+				"grp_multi_filter_Pipeline_VITIS_LOOP_42_1_VITIS_LOOP_43_2_fu_4604/grp_multi_filter_Pipeline_VITIS_LOOP_42_1_VITIS_LOOP_43_2_fu_4604_activity": {
+					"interface": "xilinx.com:interface:internal_hls_dataflow:1.0",
+					"ports": {
+						"AP_CLK": { "actual": "ap_clk"},
+						"AP_DONE": { "actual": "ap_done"},
+						"AP_READY": { "actual": "ap_ready"},
+						"AP_RESET": { "actual": "ap_rst"},
+						"AP_START": { "actual": "ap_start"}
+					}
+				},
+				"grp_multi_filter_Pipeline_VITIS_LOOP_55_1_VITIS_LOOP_56_2_fu_5246/grp_multi_filter_Pipeline_VITIS_LOOP_55_1_VITIS_LOOP_56_2_fu_5246_activity": {
+					"interface": "xilinx.com:interface:internal_hls_dataflow:1.0",
+					"ports": {
+						"AP_CLK": { "actual": "ap_clk"},
+						"AP_DONE": { "actual": "ap_done"},
+						"AP_READY": { "actual": "ap_ready"},
+						"AP_RESET": { "actual": "ap_rst"},
+						"AP_START": { "actual": "ap_start"}
+					}
+				},
+				"grp_multi_filter_Pipeline_VITIS_LOOP_6_1_VITIS_LOOP_7_2_fu_3062/grp_multi_filter_Pipeline_VITIS_LOOP_6_1_VITIS_LOOP_7_2_fu_3062_activity": {
+					"interface": "xilinx.com:interface:internal_hls_dataflow:1.0",
+					"ports": {
+						"AP_CLK": { "actual": "ap_clk"},
+						"AP_DONE": { "actual": "ap_done"},
+						"AP_READY": { "actual": "ap_ready"},
+						"AP_RESET": { "actual": "ap_rst"},
+						"AP_START": { "actual": "ap_start"}
+					}
+				},
+				"grp_multi_filter_Pipeline_VITIS_LOOP_70_1_VITIS_LOOP_71_2_fu_5760/grp_multi_filter_Pipeline_VITIS_LOOP_70_1_VITIS_LOOP_71_2_fu_5760_activity": {
+					"interface": "xilinx.com:interface:internal_hls_dataflow:1.0",
+					"ports": {
+						"AP_CLK": { "actual": "ap_clk"},
+						"AP_DONE": { "actual": "ap_done"},
+						"AP_READY": { "actual": "ap_ready"},
+						"AP_RESET": { "actual": "ap_rst"},
+						"AP_START": { "actual": "ap_start"}
+					}
+				},
+				"grp_multi_filter_Pipeline_VITIS_LOOP_96_1_VITIS_LOOP_97_2_fu_2658/grp_multi_filter_Pipeline_VITIS_LOOP_96_1_VITIS_LOOP_97_2_fu_2658_activity": {
+					"interface": "xilinx.com:interface:internal_hls_dataflow:1.0",
+					"ports": {
+						"AP_CLK": { "actual": "ap_clk"},
+						"AP_DONE": { "actual": "ap_done"},
+						"AP_READY": { "actual": "ap_ready"},
+						"AP_RESET": { "actual": "ap_rst"},
+						"AP_START": { "actual": "ap_start"}
+					}
+				}
+			}
+		}
+	}
+}

@@ -106,3 +106,8 @@ You should see the following messages via UART (e.g., Tera Term):
 | GUI stuck on "FPGA ready..." | Ensure the board is programmed and handshake works |
 | Distorted output images      | Check that input is properly resized to 128×128    |
 | Timeout waiting for result   | Recheck baud rate (should be 115200)               |
+
+
+# 🛠️ Contact
+- Raoha Bin Mejba
+- raoha@mail.ustc.edu.cn
