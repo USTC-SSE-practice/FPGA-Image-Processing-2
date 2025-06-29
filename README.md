@@ -108,6 +108,6 @@ You should see the following messages via UART (e.g., Tera Term):
 | Timeout waiting for result   | Recheck baud rate (should be 115200)               |
 
 
-# 🛠️ Contact
+# 📧 Contact
 - Raoha Bin Mejba
 - raoha@mail.ustc.edu.cn
